@@ -1,1 +1,1 @@
-This is an updated version of [https://github.com/not-first/safe-infecting](this) mod!
+This is an updated version of [this](https://github.com/not-first/safe-infecting) mod!
